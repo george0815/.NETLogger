@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "94ZvWWG01II=",
+  "success": true,
+  "projectFilePath": "/run/media/Hunter/Programming/Github/.NETLogger/NETLogger/NETLogger.csproj",
+  "expectedPackageFiles": [
+    "/home/Hunter/.nuget/packages/microsoft.aspnetcore.app.ref/10.0.13/microsoft.aspnetcore.app.ref.10.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
